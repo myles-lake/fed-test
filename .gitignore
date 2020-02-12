@@ -91,3 +91,9 @@ typings/
 .idea/
 
 .DS_Store
+/.vs/fed-test/v16/.suo
+/.vs/fed-test/config/applicationhost.config
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/tasks.vs.json
+/.vs/VSWorkspaceState.json
